@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RedEMPSM:war">
+    <output-path>$PROJECT_DIR$/../RedEMPSM/target</output-path>
+    <root id="archive" name="RedEMPSM.war">
+      <element id="artifact" artifact-name="RedEMPSM:war exploded" />
+    </root>
+  </artifact>
+</component>

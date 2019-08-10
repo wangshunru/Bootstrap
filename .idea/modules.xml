@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BootStrapAndMybatis/BootStrapAndMybatis.iml" filepath="$PROJECT_DIR$/../BootStrapAndMybatis/BootStrapAndMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BootStrapHomework/BootStrapHomework.iml" filepath="$PROJECT_DIR$/../BootStrapHomework/BootStrapHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BootStrapJQGRID/BootStrapJQGRID.iml" filepath="$PROJECT_DIR$/../BootStrapJQGRID/BootStrapJQGRID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap.iml" filepath="$PROJECT_DIR$/Bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JqGrid/JqGrid.iml" filepath="$PROJECT_DIR$/../JqGrid/JqGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MBGTest/MBGTest.iml" filepath="$PROJECT_DIR$/../MBGTest/MBGTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RedEMPSM/RedEMPSM.iml" filepath="$PROJECT_DIR$/../RedEMPSM/RedEMPSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSMJqGrid/SSMJqGrid.iml" filepath="$PROJECT_DIR$/../SSMJqGrid/SSMJqGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBoot2/SpringBoot2.iml" filepath="$PROJECT_DIR$/../SpringBoot2/SpringBoot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBootAndMybatisJAR/SpringBootAndMybatisJAR.iml" filepath="$PROJECT_DIR$/../SpringBootAndMybatisJAR/SpringBootAndMybatisJAR.iml" />
+    </modules>
+  </component>
+</project>

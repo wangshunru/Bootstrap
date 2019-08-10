@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MBGTest:war">
+    <output-path>$PROJECT_DIR$/../MBGTest/target</output-path>
+    <root id="archive" name="MBGTest.war">
+      <element id="artifact" artifact-name="MBGTest:war exploded" />
+    </root>
+  </artifact>
+</component>

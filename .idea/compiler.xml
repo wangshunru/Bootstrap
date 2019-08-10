@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Bootstrap" />
+        <module name="BootStrapAndMybatis" />
+        <module name="BootStrapHomework" />
+        <module name="BootStrapJQGRID" />
+        <module name="JqGrid" />
+        <module name="MBGTest" />
+        <module name="RedEMPSM" />
+        <module name="SpringBoot2" />
+        <module name="SpringBootAndMybatisJAR" />
+        <module name="SSMJqGrid" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="Bootstrap" target="1.7" />
+      <module name="Bootstrap3" target="1.7" />
+      <module name="BootStrapAndMybatis" target="1.7" />
+      <module name="BootStrapHomework" target="1.7" />
+      <module name="BootStrapJQGRID" target="1.7" />
+      <module name="BootStrapJqGrid" target="1.7" />
+      <module name="JqGrid" target="1.7" />
+      <module name="MBGTest" target="1.7" />
+      <module name="RedEMPSM" target="1.7" />
+      <module name="SpringBoot2" target="1.7" />
+      <module name="SpringBootAndMybatisJAR" target="1.7" />
+      <module name="SSMJqGrid" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
